@@ -1,3 +1,11 @@
+#hinnkaDE
+
+<img width="1920" height="1080" alt="Screenshot_20260329_180329" src="https://github.com/user-attachments/assets/423d0527-987a-4ae7-baf6-9d3903cb8f50" />
+
+-----------------------------------
+
+# Start The Installation:
+
 Before you started, get these pakages:
 
 `xfce4-palne`
@@ -7,10 +15,6 @@ Before you started, get these pakages:
 (ONLY FOR LINUX USERS)
 
 (whatever you distro on, like Arch, Debian, and Fedora)
-
------------------------------------
-
-# Start The Installation:
 
 The [bash](https://github.com/kk2lly/hinnkaDE/blob/main/hinnkaDE.sh) script must be to `/usr/local/bin` or `/bin` (feel free to edit)
 
