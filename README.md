@@ -5,6 +5,7 @@ Before you started, get these pakages:
 `openbox`
 
 (ONLY FOR LINUX USERS)
+
 (whatever you distro on, like Arch, Debian, and Fedora)
 
 -----------------------------------
