@@ -19,7 +19,7 @@ Fedora:
 
 # Non-Manual:
 
-Try [shell file installer/uninstaller](https://github.com/kk2lly/hinnkaDE/releases/tag/Shell) for new users
+Get `install.sh` from [release](https://github.com/kk2lly/hinnkaDE/releases/tag/Shell)
 
 -----------------------------
 
