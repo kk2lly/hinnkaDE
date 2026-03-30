@@ -5,13 +5,13 @@
 Before you started, get these pakages:
 
 Arch:
-`sudo pacman -S openbox xfce4-palne`
+`sudo pacman -S feh openbox xfce4-palne`
 
 Debian:
-`sudo apt install openbox xfce4-palne`
+`sudo apt install feh openbox xfce4-palne`
 
 Fedora:
-`sudo dnf install openbox xfce4-palne`
+`sudo dnf install feh openbox xfce4-palne`
 
 (ONLY FOR LINUX USERS)
 
