@@ -71,7 +71,7 @@ NOTE: If you forgot to do `sudo chmod +x /usr/local/bin/hinnkaDE/hinnkaDE.sh` or
 
 
 
-# Preview:
+# Previews
 
 Virtual machine:
 <img width="1920" height="1080" alt="Screenshot_20260330_132643" src="https://github.com/user-attachments/assets/3048445b-49d3-49a8-aa59-df9b4dae0004" />
